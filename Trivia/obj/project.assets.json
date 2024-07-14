@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "MVC_Controlador/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "MVC_Modelo": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MVC_Controlador.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVC_Controlador.dll": {}
+        }
+      },
+      "MVC_Modelo/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/MVC_Modelo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVC_Modelo.dll": {}
+        }
+      },
+      "MVC_Vista/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "MVC_Controlador": "1.0.0",
+          "MVC_Modelo": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MVC_Vista.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVC_Vista.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MVC_Controlador/1.0.0": {
+      "type": "project",
+      "path": "../MVC_Controlador/MVC_Controlador.csproj",
+      "msbuildProject": "../MVC_Controlador/MVC_Controlador.csproj"
+    },
+    "MVC_Modelo/1.0.0": {
+      "type": "project",
+      "path": "../MVC_Modelo/MVC_Modelo.csproj",
+      "msbuildProject": "../MVC_Modelo/MVC_Modelo.csproj"
+    },
+    "MVC_Vista/1.0.0": {
+      "type": "project",
+      "path": "../MVC_Vista/MVC_Vista.csproj",
+      "msbuildProject": "../MVC_Vista/MVC_Vista.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "MVC_Controlador >= 1.0.0",
+      "MVC_Modelo >= 1.0.0",
+      "MVC_Vista >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Naho\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\Trivia\\Trivia.csproj",
+      "projectName": "Trivia",
+      "projectPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\Trivia\\Trivia.csproj",
+      "packagesPath": "C:\\Users\\Naho\\.nuget\\packages\\",
+      "outputPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\Trivia\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Naho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Controlador\\MVC_Controlador.csproj": {
+              "projectPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Controlador\\MVC_Controlador.csproj"
+            },
+            "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Modelo\\MVC_Modelo.csproj": {
+              "projectPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Modelo\\MVC_Modelo.csproj"
+            },
+            "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Vista\\MVC_Vista.csproj": {
+              "projectPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Vista\\MVC_Vista.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

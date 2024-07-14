@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\Trivia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F52C1640-36D5-43AA-B966-FED856617AEF}|..\\MVC_Vista\\MVC_Vista.csproj|e:\\elguille\\uees\\sistemas_distribuidos\\proyecto\\proyecto_sd\\mvc_vista\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52C1640-36D5-43AA-B966-FED856617AEF}|..\\MVC_Vista\\MVC_Vista.csproj|e:\\elguille\\uees\\sistemas_distribuidos\\proyecto\\proyecto_sd\\mvc_vista\\formjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52C1640-36D5-43AA-B966-FED856617AEF}|..\\MVC_Vista\\MVC_Vista.csproj|e:\\elguille\\uees\\sistemas_distribuidos\\proyecto\\proyecto_sd\\mvc_vista\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6C71A9-2C84-4AAC-89FC-9EB89943FD7E}|Trivia.csproj|e:\\elguille\\uees\\sistemas_distribuidos\\proyecto\\proyecto_sd\\trivia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6C71A9-2C84-4AAC-89FC-9EB89943FD7E}|Trivia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED4004B-3E4C-4E41-BB4A-7B5B0F0A691B}|..\\MVC_Controlador\\MVC_Controlador.csproj|e:\\elguille\\uees\\sistemas_distribuidos\\proyecto\\proyecto_sd\\mvc_controlador\\iuserview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED4004B-3E4C-4E41-BB4A-7B5B0F0A691B}|..\\MVC_Controlador\\MVC_Controlador.csproj|e:\\elguille\\uees\\sistemas_distribuidos\\proyecto\\proyecto_sd\\mvc_controlador\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\Trivia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\Trivia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:10:32.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Vista\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "..\\MVC_Vista\\FormPrincipal.cs",
+              "ToolTip": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Vista\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\MVC_Vista\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T04:01:16.855Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Vista\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "..\\MVC_Vista\\FormPrincipal.cs",
+              "ToolTip": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Vista\\FormPrincipal.cs",
+              "RelativeToolTip": "..\\MVC_Vista\\FormPrincipal.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAEwCUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:48:53.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormJugador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Vista\\FormJugador.cs",
+              "RelativeDocumentMoniker": "..\\MVC_Vista\\FormJugador.cs",
+              "ToolTip": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Vista\\FormJugador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\MVC_Vista\\FormJugador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T04:23:00.291Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Controlador\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\MVC_Controlador\\UserController.cs",
+              "ToolTip": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Controlador\\UserController.cs",
+              "RelativeToolTip": "..\\MVC_Controlador\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:41:57.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserView.cs",
+              "DocumentMoniker": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Controlador\\IUserView.cs",
+              "RelativeDocumentMoniker": "..\\MVC_Controlador\\IUserView.cs",
+              "ToolTip": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Controlador\\IUserView.cs",
+              "RelativeToolTip": "..\\MVC_Controlador\\IUserView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:42:06.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

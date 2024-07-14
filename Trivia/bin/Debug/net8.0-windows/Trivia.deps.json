@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Trivia/1.0.0": {
+        "dependencies": {
+          "MVC_Controlador": "1.0.0",
+          "MVC_Modelo": "1.0.0",
+          "MVC_Vista": "1.0.0"
+        },
+        "runtime": {
+          "Trivia.dll": {}
+        }
+      },
+      "MVC_Controlador/1.0.0": {
+        "dependencies": {
+          "MVC_Modelo": "1.0.0"
+        },
+        "runtime": {
+          "MVC_Controlador.dll": {}
+        }
+      },
+      "MVC_Modelo/1.0.0": {
+        "runtime": {
+          "MVC_Modelo.dll": {}
+        }
+      },
+      "MVC_Vista/1.0.0": {
+        "dependencies": {
+          "MVC_Controlador": "1.0.0",
+          "MVC_Modelo": "1.0.0"
+        },
+        "runtime": {
+          "MVC_Vista.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trivia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVC_Controlador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVC_Modelo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVC_Vista/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

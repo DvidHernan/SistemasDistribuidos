@@ -1,0 +1,15 @@
+E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Vista\bin\Debug\MVC_Vista.dll
+E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Vista\bin\Debug\MVC_Vista.pdb
+E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Vista\bin\Debug\MVC_Controlador.dll
+E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Vista\bin\Debug\MVC_Modelo.dll
+E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Vista\bin\Debug\MVC_Controlador.pdb
+E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Vista\bin\Debug\MVC_Modelo.pdb
+E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Vista\obj\Debug\MVC_Vista.csproj.AssemblyReference.cache
+E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Vista\obj\Debug\MVC_Vista.FormJugador.resources
+E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Vista\obj\Debug\MVC_Vista.FormPrincipal.resources
+E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Vista\obj\Debug\MVC_Vista.Properties.Resources.resources
+E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Vista\obj\Debug\MVC_Vista.csproj.GenerateResource.cache
+E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Vista\obj\Debug\MVC_Vista.csproj.CoreCompileInputs.cache
+E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Vista\obj\Debug\MVC_Vista.csproj.Up2Date
+E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Vista\obj\Debug\MVC_Vista.dll
+E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Vista\obj\Debug\MVC_Vista.pdb

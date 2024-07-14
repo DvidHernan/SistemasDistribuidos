@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\Trivia\\Trivia.csproj": {}
+  },
+  "projects": {
+    "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Controlador\\MVC_Controlador.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Controlador\\MVC_Controlador.csproj",
+        "projectName": "MVC_Controlador",
+        "projectPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Controlador\\MVC_Controlador.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Modelo\\MVC_Modelo.csproj": {
+                "projectPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Modelo\\MVC_Modelo.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Modelo\\MVC_Modelo.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Modelo\\MVC_Modelo.csproj",
+        "projectName": "MVC_Modelo",
+        "projectPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Modelo\\MVC_Modelo.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Vista\\MVC_Vista.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Vista\\MVC_Vista.csproj",
+        "projectName": "MVC_Vista",
+        "projectPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Vista\\MVC_Vista.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Controlador\\MVC_Controlador.csproj": {
+                "projectPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Controlador\\MVC_Controlador.csproj"
+              },
+              "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Modelo\\MVC_Modelo.csproj": {
+                "projectPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Modelo\\MVC_Modelo.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\Trivia\\Trivia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\Trivia\\Trivia.csproj",
+        "projectName": "Trivia",
+        "projectPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\Trivia\\Trivia.csproj",
+        "packagesPath": "C:\\Users\\Naho\\.nuget\\packages\\",
+        "outputPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\Trivia\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Naho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Controlador\\MVC_Controlador.csproj": {
+                "projectPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Controlador\\MVC_Controlador.csproj"
+              },
+              "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Modelo\\MVC_Modelo.csproj": {
+                "projectPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Modelo\\MVC_Modelo.csproj"
+              },
+              "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Vista\\MVC_Vista.csproj": {
+                "projectPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Vista\\MVC_Vista.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
