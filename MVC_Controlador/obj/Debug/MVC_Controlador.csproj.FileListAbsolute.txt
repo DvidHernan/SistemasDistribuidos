@@ -7,3 +7,12 @@ E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Controlador\obj\
 E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Controlador\obj\Debug\MVC_Cont.78B627FD.Up2Date
 E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Controlador\obj\Debug\MVC_Controlador.dll
 E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Controlador\obj\Debug\MVC_Controlador.pdb
+D:\Personal\Proyecto_SD\MVC_Controlador\bin\Debug\MVC_Controlador.dll
+D:\Personal\Proyecto_SD\MVC_Controlador\bin\Debug\MVC_Controlador.pdb
+D:\Personal\Proyecto_SD\MVC_Controlador\bin\Debug\MVC_Modelo.dll
+D:\Personal\Proyecto_SD\MVC_Controlador\bin\Debug\MVC_Modelo.pdb
+D:\Personal\Proyecto_SD\MVC_Controlador\obj\Debug\MVC_Controlador.csproj.AssemblyReference.cache
+D:\Personal\Proyecto_SD\MVC_Controlador\obj\Debug\MVC_Controlador.csproj.CoreCompileInputs.cache
+D:\Personal\Proyecto_SD\MVC_Controlador\obj\Debug\MVC_Cont.78B627FD.Up2Date
+D:\Personal\Proyecto_SD\MVC_Controlador\obj\Debug\MVC_Controlador.dll
+D:\Personal\Proyecto_SD\MVC_Controlador\obj\Debug\MVC_Controlador.pdb

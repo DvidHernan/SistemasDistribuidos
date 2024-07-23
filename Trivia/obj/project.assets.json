@@ -63,23 +63,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Naho\\.nuget\\packages\\": {},
+    "C:\\Users\\GuillermoZambrano\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\Trivia\\Trivia.csproj",
+      "projectUniqueName": "D:\\Personal\\Proyecto_SD\\Trivia\\Trivia.csproj",
       "projectName": "Trivia",
-      "projectPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\Trivia\\Trivia.csproj",
-      "packagesPath": "C:\\Users\\Naho\\.nuget\\packages\\",
-      "outputPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\Trivia\\obj\\",
+      "projectPath": "D:\\Personal\\Proyecto_SD\\Trivia\\Trivia.csproj",
+      "packagesPath": "C:\\Users\\GuillermoZambrano\\.nuget\\packages\\",
+      "outputPath": "D:\\Personal\\Proyecto_SD\\Trivia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Naho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\GuillermoZambrano\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -95,14 +95,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Controlador\\MVC_Controlador.csproj": {
-              "projectPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Controlador\\MVC_Controlador.csproj"
+            "D:\\Personal\\Proyecto_SD\\MVC_Controlador\\MVC_Controlador.csproj": {
+              "projectPath": "D:\\Personal\\Proyecto_SD\\MVC_Controlador\\MVC_Controlador.csproj"
             },
-            "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Modelo\\MVC_Modelo.csproj": {
-              "projectPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Modelo\\MVC_Modelo.csproj"
+            "D:\\Personal\\Proyecto_SD\\MVC_Modelo\\MVC_Modelo.csproj": {
+              "projectPath": "D:\\Personal\\Proyecto_SD\\MVC_Modelo\\MVC_Modelo.csproj"
             },
-            "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Vista\\MVC_Vista.csproj": {
-              "projectPath": "E:\\ElGuille\\UEES\\Sistemas_Distribuidos\\Proyecto\\Proyecto_SD\\MVC_Vista\\MVC_Vista.csproj"
+            "D:\\Personal\\Proyecto_SD\\MVC_Vista\\MVC_Vista.csproj": {
+              "projectPath": "D:\\Personal\\Proyecto_SD\\MVC_Vista\\MVC_Vista.csproj"
             }
           }
         }

@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trivia", "Trivia.csproj", "{DE6C71A9-2C84-4AAC-89FC-9EB89943FD7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trivia", "Trivia.csproj", "{DE6C71A9-2C84-4AAC-89FC-9EB89943FD7E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_Modelo", "..\MVC_Modelo\MVC_Modelo.csproj", "{A0E5294B-7EC9-4506-AE88-4C7534A91153}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_Vista", "..\MVC_Vista\MVC_Vista.csproj", "{F52C1640-36D5-43AA-B966-FED856617AEF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_Controlador", "..\MVC_Controlador\MVC_Controlador.csproj", "{BED4004B-3E4C-4E41-BB4A-7B5B0F0A691B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente", "..\Cliente\Cliente.csproj", "{D39ADF9A-CEC7-4A0A-B388-E9A060C111D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{BED4004B-3E4C-4E41-BB4A-7B5B0F0A691B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BED4004B-3E4C-4E41-BB4A-7B5B0F0A691B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BED4004B-3E4C-4E41-BB4A-7B5B0F0A691B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D39ADF9A-CEC7-4A0A-B388-E9A060C111D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39ADF9A-CEC7-4A0A-B388-E9A060C111D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39ADF9A-CEC7-4A0A-B388-E9A060C111D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39ADF9A-CEC7-4A0A-B388-E9A060C111D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

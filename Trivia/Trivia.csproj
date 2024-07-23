@@ -9,6 +9,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="FormCliente.cs" />
+    <Compile Remove="FormCliente.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="FormCliente.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\MVC_Controlador\MVC_Controlador.csproj" />
     <ProjectReference Include="..\MVC_Modelo\MVC_Modelo.csproj" />
     <ProjectReference Include="..\MVC_Vista\MVC_Vista.csproj" />

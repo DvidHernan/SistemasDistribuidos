@@ -43,19 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="FormJugador.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormJugador.Designer.cs">
-      <DependentUpon>FormJugador.cs</DependentUpon>
-    </Compile>
+    <Compile Include="ConexionTcp.cs" />
+    <Compile Include="Mapa.cs" />
+    <Compile Include="Paquete.cs" />
     <Compile Include="FormPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormPrincipal.Designer.cs">
       <DependentUpon>FormPrincipal.cs</DependentUpon>
     </Compile>
+    <Compile Include="Paquetes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -64,9 +61,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="FormJugador.resx">
-      <DependentUpon>FormJugador.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="FormPrincipal.resx">
       <DependentUpon>FormPrincipal.cs</DependentUpon>
     </EmbeddedResource>

@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace MVC_Vista
 {
-    public class Class1
+    public class Paquetes
     {
+        public static Paquete LoginOk(string respuesta)
+        {
+            return new Paquete(respuesta);
+        }
     }
 }

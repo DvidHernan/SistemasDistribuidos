@@ -4,3 +4,9 @@ E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Modelo\obj\Debug
 E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Modelo\obj\Debug\MVC_Modelo.csproj.CoreCompileInputs.cache
 E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Modelo\obj\Debug\MVC_Modelo.dll
 E:\ElGuille\UEES\Sistemas_Distribuidos\Proyecto\Proyecto_SD\MVC_Modelo\obj\Debug\MVC_Modelo.pdb
+D:\Personal\Proyecto_SD\MVC_Modelo\bin\Debug\MVC_Modelo.dll
+D:\Personal\Proyecto_SD\MVC_Modelo\bin\Debug\MVC_Modelo.pdb
+D:\Personal\Proyecto_SD\MVC_Modelo\obj\Debug\MVC_Modelo.csproj.AssemblyReference.cache
+D:\Personal\Proyecto_SD\MVC_Modelo\obj\Debug\MVC_Modelo.csproj.CoreCompileInputs.cache
+D:\Personal\Proyecto_SD\MVC_Modelo\obj\Debug\MVC_Modelo.dll
+D:\Personal\Proyecto_SD\MVC_Modelo\obj\Debug\MVC_Modelo.pdb
